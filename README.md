@@ -1,3 +1,4 @@
+HEBAU智慧校园新闻管理系统 前端
 # big-event
 
 This template should help get you started developing with Vue 3 in Vite.
